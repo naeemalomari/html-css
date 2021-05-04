@@ -1,0 +1,20 @@
+body header nav li p {
+  background-color: #58d3f7 ;
+}
+img {
+  height:550px ;
+  width :500px ; 
+  margin-bottom: 50px ;
+  border: black ;
+  display: block; 
+  border:2px solid yellow;
+}
+a {
+  color:red;
+}
+footer nav li h1 {
+  display: inline;
+  background-color: lightblue ;
+  border: 3px solid red;
+
+}
