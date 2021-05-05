@@ -7,7 +7,7 @@ if (UserPlayer === 'messi' ) {
   }
   else if(UserPlayer === 'ronaldo')
    { 
-    document.write ('<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/03/21/cristiano-ronaldo-goal.jpg">'); 
+    document.write ('GO OUT OF HERE '); 
   } else {
     alert( ' Go back and choose one ' );
   }
