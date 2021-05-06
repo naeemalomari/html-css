@@ -1,3 +1,7 @@
 ## JavaScript:-
 ## Java script expressions and operator including assignment, comparsion, arithmetic, bitwise , logical , string ,ternary and more expressions and operators, that each one of them generally describe it self.
+<<<<<<< HEAD
 ## Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops.
+=======
+## Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops.
+>>>>>>> bb7e449046c3743d72aebaf98fb009d594e2350f
