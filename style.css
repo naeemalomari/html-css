@@ -20,3 +20,9 @@ footer nav li h1 {
   border: 3px solid white;
 
 }
+.images { 
+  float :right ;
+}
+footer { 
+  clear: both;
+}
