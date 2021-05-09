@@ -1,23 +1,22 @@
-html { background-color: blueviolet }
+html { background-color : gray }
 body header nav li p {
   background-color: white  ;
 }
 img {
-   
   height:400px ;
   width :400px ; 
   margin-bottom: 50px ;
   border: black ;
-  border:2px solid red;
+  border:2px solid white;
   align: center ;
   display :inline block ;
 }
 a {
-  color:red;
+  color: white;
 }
 footer nav li h1 {
   display: inline;
   background-color: lightblue ;
-  border: 3px solid red;
+  border: 3px solid white;
 
 }
